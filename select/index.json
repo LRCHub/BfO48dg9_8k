@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "爆速論理ness",
+  "base_artist": "AKASAKI",
+  "createdAt": "2026-01-13T14:05:22.783239Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "爆速論理ness",
+      "artist": "AKASAKI",
+      "has_synced": false,
+      "path": "select/pl_01_爆速論理ness_AKASAKI.txt"
+    }
+  ]
+}
